@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+*.rrxp
+*.db3
+*.report.json
+*.png
+*.jpg
+*.jpeg
+*.pdf
+Projekt.xml
+Seiten.xml
+Projekte/
+Konvertiert/
+RRS_2023/
+RRX*/
